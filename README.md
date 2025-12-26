@@ -3,7 +3,7 @@
 # Ciallo～(∠・ω< )⌒☆
 这里是 **Sheyiyuan**，一名对代码有些许兴趣的普通学渣
 
-  <img src="https://github.com/user-attachments/assets/14fa95e3-6fa0-40b1-9903-cadf2deb228d" alt="Tenet" width="30%">
+  <img src="https://github.com/user-attachments/assets/14fa95e3-6fa0-40b1-9903-cadf2deb228d" alt="Tenet" width="80%">
 
 </div>
 
