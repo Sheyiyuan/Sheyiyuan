@@ -16,6 +16,18 @@
 
 ---
 
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Sheyiyuan&show_icons=false&hide_border=truetrue&theme=transparent&locale=cn" />
+<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheyiyuan&theme=transparent&hide_border=true&layout=compact&langs_count=6&locale=cn&hide=html,css,dockerfile,shell,powershell&size_weight=0&count_weight=1" />
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&locale=cn&theme=github-compact&hide_border=true&area=true" />
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br/>
+
+---
+
 ### 技术栈
 
 **Languages:**
