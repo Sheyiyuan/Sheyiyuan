@@ -1,9 +1,16 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello!&fontSize=90&fontAlign=50&fontAlignY=30&desc=这里是%20Sheyiyuan，一名对代码有些许兴趣的普通学渣&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Ciallo++World" />
+</p>
+
 <div align="center">
 
-# Ciallo～(∠・ω< )⌒☆
-这里是 **Sheyiyuan**，一名对代码有些许兴趣的普通学渣
+<!-- # Ciallo～(∠・ω< )⌒☆ -->
 
-  <img src="https://github.com/user-attachments/assets/14fa95e3-6fa0-40b1-9903-cadf2deb228d" alt="Tenet" width="80%">
+  <img src="https://github.com/user-attachments/assets/14fa95e3-6fa0-40b1-9903-cadf2deb228d" alt="Tenet" width="100%">
 
 </div>
 
