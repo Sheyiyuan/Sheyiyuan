@@ -9,12 +9,12 @@
 <h1 align="center">Ciallo～(∠・ω< )⌒☆</h1>
 <p align="center">
   <b>这里是 Sheyiyuan</b><br>
-  末 9 统计学本科在读 | 全栈开发者 | 开源爱好者
 </p>
-<p align="center">按兴趣写点我需要的「无聊」东西</p>
+<p align="center">末 9 统计学本科在读 | 全栈开发者 | 开源爱好者</p>
+<p align="center"><i>按兴趣写点我需要的「无聊」东西</i></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Ciallo++World" />
+<img src="assets/image/typing.svg" />
 </p>
 
 <div align="center">
