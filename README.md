@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://blog.sheyiyuan.cn">
-    <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-3178C6?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
   <a href="mailto:sheyiyuantan90@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -30,10 +30,10 @@
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sheyiyuan&show_icons=true&hide_border=true&theme=transparent&locale=cn&title_color=00ADD8&text_color=999" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sheyiyuan&show_icons=true&hide_border=true&theme=transparent&locale=cn&title_color=3178C6&text_color=999&icon_color=3178C6" alt="Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheyiyuan&theme=transparent&hide_border=true&layout=compact&langs_count=6&locale=cn&hide=html,css,dockerfile,shell,powershell&size_weight=0&count_weight=1&title_color=00ADD8&text_color=999" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheyiyuan&theme=transparent&hide_border=true&layout=compact&langs_count=6&locale=cn&hide=html,css,dockerfile,shell,powershell&size_weight=0&count_weight=1&title_color=3178C6&text_color=999" alt="Languages" />
       </td>
     </tr>
   </table>
@@ -87,6 +87,27 @@
 
 <div align="center">
 
+### 精选项目 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Sheyiyuan/Half-Beat-Player">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheyiyuan&repo=Half-Beat-Player&theme=transparent&hide_border=true&title_color=3178C6&text_color=999&icon_color=3178C6&show_owner=true" alt="Half-Beat-Player" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/starrybamboo/tuan-chat-web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starrybamboo&repo=tuan-chat-web&theme=transparent&hide_border=true&title_color=3178C6&text_color=999&icon_color=3178C6&show_owner=true" alt="tuan-chat-web" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
 ### 技术特点 Tech Highlights
 
 </div>
@@ -102,7 +123,7 @@
 
 </div>
 
-- **技术博客**：在[个人网站](https://blog.sheyiyuan.cn)分享学习笔记与实践经验
+- **技术博客**：在 [blog.sheyiyuan.cn](https://blog.sheyiyuan.cn) 分享学习笔记与实践经验
 - **开源贡献**：积极参与开源项目，为社区贡献代码
 - **技术交流**：乐于分享技术见解，探讨解决方案
 
@@ -112,9 +133,10 @@
 
 </div>
 
-**正在学习**
+**学习ing :**
 - **CS61ABC 系列课程** - 深入理解计算机系统基础
 - **React 框架** - 提升前端开发能力，构建现代化 Web 应用
 
-
+**开发ing :**
+- **Half-Beat Player** - 基于 Wails 的跨平台音乐播放器
 
