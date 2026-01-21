@@ -10,7 +10,7 @@
 <p align="center">
   <b>这里是 Sheyiyuan</b><br>
 </p>
-<p align="center">末 9 统计学本科在读 | 全栈开发者 | 开源爱好者</p>
+<p align="center">末流 985 统计学本科在读 | 全栈开发者 | 开源爱好者</p>
 <p align="center"><i>按兴趣写点我需要的「无聊」东西</i></p>
 
 <p align="center">
