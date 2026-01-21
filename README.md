@@ -2,25 +2,36 @@
 
 <!-- # Ciallo～(∠・ω< )⌒☆ -->
 
-  <img src="assets/image/status.png" alt="Tenet" width="100%">
+  <img src="assets/image/status.webp" alt="Tenet" width="100%">
 
 </div>
 
 <h1 align="center">Ciallo～(∠・ω< )⌒☆</h1>
-<p align="center">这里是 Sheyiyuan，一名对代码有些许兴趣的普通学渣</p>
- <p align="center">按兴趣写点我需要的无聊东西</p>
+<p align="center">
+  <b>这里是 Sheyiyuan</b><br>
+  末 9 统计学本科在读 | 全栈开发者 | 开源爱好者
+</p>
+<p align="center">按兴趣写点我需要的「无聊」东西</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Ciallo++World" />
 </p>
 
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=Sheyiyuan&show_icons=false&hide_border=true&theme=transparent&locale=cn" />
-<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheyiyuan&theme=transparent&hide_border=true&layout=compact&langs_count=6&locale=cn&hide=html,css,dockerfile,shell,powershell&size_weight=0&count_weight=1" />
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&locale=cn&theme=github-compact&hide_border=true&area=true" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sheyiyuan&show_icons=true&hide_border=true&theme=transparent&locale=cn&title_color=00ADD8&text_color=999" alt="Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheyiyuan&theme=transparent&hide_border=true&layout=compact&langs_count=6&locale=cn&hide=html,css,dockerfile,shell&size_weight=0&count_weight=1&title_color=00ADD8&text_color=999" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&locale=cn&theme=github-compact&hide_border=true&area=true" />
+</div>
+
+<div align="center">
 
 **前端 Frontend:**
 
@@ -51,7 +62,6 @@
 **运维 / 协作 DevOps:**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -70,7 +80,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
----
+</div>
 
 ### 项目经验
 
@@ -81,13 +91,11 @@
 
 ---
 
-### 愿景
+### Next Chapter
 
-- 持续精进 TypeScript 和 Go 后端开发
-- 深入学习分布式系统和云原生技术
-- 探索更多 DevOps 实践
-- 系统学习前端开发，尤其是 React 框架
-- 在数据科学和AI领域深入发展
+- 系统学习前端开发，尤其是 React 框架，持续精进 TypeScript 和 Go ，成为更好的全栈开发者
+- 深入学习分布式系统和云原生技术，探索更多 DevOps 实践，拥抱自动化与持续集成
+- 继续在数据科学领域探索工程化的最佳实践
 
 ---
 
