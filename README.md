@@ -14,6 +14,15 @@
 <p align="center"><i>按兴趣写点我需要的「无聊」东西</i></p>
 
 <p align="center">
+  <a href="https://blog.sheyiyuan.cn">
+    <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+  <a href="sheyiyuantan90@qq.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
 <img src="assets/image/typing.svg" />
 </p>
 
@@ -28,7 +37,7 @@
       </td>
     </tr>
   </table>
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&locale=cn&theme=github-compact&hide_border=true&area=true" />
+  <!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&locale=cn&theme=github-compact&hide_border=true&area=true" /> -->
 </div>
 
 <div align="center">
@@ -97,15 +106,6 @@
 - 系统学习前端开发，尤其是 React 框架，持续精进 TypeScript 和 Go ，成为更好的全栈开发者
 - 深入学习分布式系统和云原生技术，探索更多 DevOps 实践，拥抱自动化与持续集成
 - 继续在数据科学领域探索工程化的最佳实践
-
-<p align="center">
-  <a href="https://blog.sheyiyuan.cn">
-    <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
-  <a href="sheyiyuantan90@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 
 
