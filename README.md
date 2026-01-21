@@ -82,7 +82,7 @@
 
 </div>
 
-### 项目经验
+### 核心能力 Core Competencies
 
 - **端到端产品交付**：从需求梳理、方案设计到上线运维，能够完成完整闭环并推动跨角色协作落地。
 - **系统架构与性能优化**：具备微服务与缓存设计经验，关注高可用与低延迟，能用数据验证优化效果。
@@ -91,7 +91,7 @@
 
 ---
 
-### Next Chapter
+### 未来展望 Next Chapter
 
 - 系统学习前端开发，尤其是 React 框架，持续精进 TypeScript 和 Go ，成为更好的全栈开发者
 - 深入学习分布式系统和云原生技术，探索更多 DevOps 实践，拥抱自动化与持续集成
@@ -103,7 +103,7 @@
   <a href="https://blog.sheyiyuan.cn">
     <img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
-  <a href="mailto:sheyiyuantan90@qq.com">
+  <a href="sheyiyuantan90@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
