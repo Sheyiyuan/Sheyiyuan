@@ -37,7 +37,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="assets/image/01.png" alt="01" height="28" />
+  <img src="assets/image/08.png" alt="" height="28" />
   <img src="assets/headline/01.svg" alt="Tech Stack" height="28" />
 </p>
 <p>
@@ -62,7 +62,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="assets/image/02.png" alt="02" height="28" />
+  <img src="assets/image/02.png" alt="" height="28" />
   <img src="assets/headline/02.svg" alt="Featured Projects" height="28" />
 </p>
 <table align="center">
@@ -96,7 +96,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="assets/image/03.png" alt="03" height="28" />
+  <img src="assets/image/18.png" alt="" height="28" />
   <img src="assets/headline/03.svg" alt="Tech Highlights" height="28" />
 </p>
 </div>
@@ -108,7 +108,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="assets/image/04.png" alt="04" height="28" />
+  <img src="assets/image/04.png" alt="" height="28" />
   <img src="assets/headline/04.svg" alt="Community" height="28" />
 </p>
 </div>
@@ -119,7 +119,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="assets/image/05.png" alt="05" height="28" />
+  <img src="assets/image/17.png" alt="" height="28" />
   <img src="assets/headline/05.svg" alt="Current Focus" height="28" />
 </p>
 </div>
