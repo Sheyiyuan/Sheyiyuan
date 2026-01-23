@@ -71,8 +71,20 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-    <a href="https://github.com/starrybamboo/tuan-chat-web">
-      <img src="https://sheyiyuan.github.io/github-readme-stats/tuan-chat-web.svg" alt="Tuan Chat Web">
+      <a href="https://github.com/starrybamboo/tuan-chat-web">
+        <img src="https://sheyiyuan.github.io/github-readme-stats/tuan-chat-web.svg" alt="Tuan Chat Web">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Sheyiyuan/Anan-s-Sketchbook-Chat-Box">
+        <img src="https://sheyiyuan.github.io/github-readme-stats/anan-s-sketchbook-chat-box.svg" alt="Anan's Sketchbook Chat Box">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Sheyiyuan/ShyeriMeme">
+        <img src="https://sheyiyuan.github.io/github-readme-stats/shyerimeme.svg" alt="ShyeriMeme">
       </a>
     </td>
   </tr>
