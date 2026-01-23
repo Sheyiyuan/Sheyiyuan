@@ -38,7 +38,7 @@
 <div align="center">
 <p align="center">
   <img src="assets/image/01.png" alt="01" height="28" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=200&lines=技术栈+Tech+Stack" alt="Tech Stack" height="28" />
+  <img src="assets/headline/01.svg" alt="Tech Stack" height="28" />
 </p>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
@@ -63,7 +63,7 @@
 <div align="center">
 <p align="center">
   <img src="assets/image/02.png" alt="02" height="28" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=280&lines=精选项目+Featured+Projects" alt="Featured Projects" height="28" />
+  <img src="assets/headline/02.svg" alt="Featured Projects" height="28" />
 </p>
 <table align="center">
   <tr>
@@ -97,7 +97,7 @@
 <div align="center">
 <p align="center">
   <img src="assets/image/03.png" alt="03" height="28" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=280&lines=技术特点+Tech+Highlights" alt="Tech Highlights" height="28" />
+  <img src="assets/headline/03.svg" alt="Tech Highlights" height="28" />
 </p>
 </div>
 
@@ -109,7 +109,7 @@
 <div align="center">
 <p align="center">
   <img src="assets/image/04.png" alt="04" height="28" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=220&lines=社区参与+Community" alt="Community" height="28" />
+  <img src="assets/headline/04.svg" alt="Community" height="28" />
 </p>
 </div>
 
@@ -120,7 +120,7 @@
 <div align="center">
 <p align="center">
   <img src="assets/image/05.png" alt="05" height="28" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=260&lines=当前进展+Current+Focus" alt="Current Focus" height="28" />
+  <img src="assets/headline/05.svg" alt="Current Focus" height="28" />
 </p>
 </div>
 
