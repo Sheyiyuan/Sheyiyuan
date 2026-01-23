@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="assets/image/status.webp" alt="Tenet" width="100%">
+  <div style="display: flex; flex-direction: column; gap: 0; width: 100%; max-width: 600px; margin: 0 auto;">
+    <!-- 上部分：白底黑字 -->
+    <div style="display: flex; align-items: center; justify-content: center; background-color: #ffffff; padding: 15px; gap: 20px;">
+      <img src="assets/image/07.png" alt="07" style="width: auto; height: 100px; object-fit: contain;" />
+      <p style="margin: 0; font-size: 20px; color: #000000; font-family: sans-serif;">世界没了我，可能会更好</p>
+    </div>
+    <!-- 下部分：黑底白字 -->
+    <div style="display: flex; align-items: center; justify-content: center; background-color: #000000; padding: 15px; gap: 20px;">
+      <img src="assets/image/16.png" alt="16" style="width: auto; height: 100px; object-fit: contain;" />
+      <p style="margin: 0; font-size: 20px; color: #ffffff; font-family: sans-serif;">所以我要继续活着</p>
+    </div>
+  </div>
 </div>
 
 <h1 align="center">Ciallo～(∠・ω< )⌒☆</h1>
@@ -71,6 +82,7 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
+    <a href="https://github.com/starrybamboo/tuan-chat-web">
       <img src="https://sheyiyuan.github.io/github-readme-stats/tuan-chat-web.svg" alt="Tuan Chat Web">
       </a>
     </td>
