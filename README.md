@@ -37,7 +37,10 @@
 
 <div align="center">
 
-### 技术栈 Tech Stack
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  <img src="assets/image/08.png" alt="" height="28" style="margin-right: 10px;" />
+  技术栈 Tech Stack
+</h3>
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
@@ -61,7 +64,10 @@
 
 <div align="center">
 
-### 精选项目 Featured Projects
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  <img src="assets/image/02.png" alt="" height="28" style="margin-right: 10px;" />
+  精选项目 Featured Projects
+</h3>
 
 <table align="center">
   <tr>
@@ -94,7 +100,10 @@
 
 <div align="center">
 
-### 技术特点 Tech Highlights
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  <img src="assets/image/05.png" alt="" height="28" style="margin-right: 10px;" />
+  技术特点 Tech Highlights
+</h3>
 
 </div>
 
@@ -105,7 +114,10 @@
 
 <div align="center">
 
-### 社区参与 Community
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  <img src="assets/image/04.png" alt="" height="28" style="margin-right: 10px;" />
+  社区参与 Community
+</h3>
 
 </div>
 
@@ -115,7 +127,10 @@
 
 <div align="center">
 
-### 当前进展 Current Focus
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  <img src="assets/image/17.png" alt="" height="28" style="margin-right: 10px;" />
+  当前进展 Current Focus
+</h3>
 
 </div>
 
