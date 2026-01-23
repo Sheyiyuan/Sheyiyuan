@@ -36,10 +36,10 @@
 </div>
 
 <div align="center">
-<p align="center">
+<h3 align="center">
   <img src="assets/image/08.png" alt="" height="28" />
   <img src="assets/headline/01.svg" alt="Tech Stack" height="28" />
-</p>
+</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28" />
@@ -61,10 +61,10 @@
 </div>
 
 <div align="center">
-<p align="center">
+<h3 align="center">
   <img src="assets/image/02.png" alt="" height="28" />
   <img src="assets/headline/02.svg" alt="Featured Projects" height="28" />
-</p>
+</h3>
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -95,10 +95,10 @@
 </div>
 
 <div align="center">
-<p align="center">
+<h3 align="center">
   <img src="assets/image/18.png" alt="" height="28" />
   <img src="assets/headline/03.svg" alt="Tech Highlights" height="28" />
-</p>
+</h3>
 </div>
 
 - **全栈开发实践**：从前端到后端独立完成项目，享受端到端开发的乐趣
@@ -107,10 +107,10 @@
 - **工程化思维**：偏爱模块化、可扩展的设计，让代码易维护、好扩展
 
 <div align="center">
-<p align="center">
+<h3 align="center">
   <img src="assets/image/04.png" alt="" height="28" />
   <img src="assets/headline/04.svg" alt="Community" height="28" />
-</p>
+</h3>
 </div>
 
 - **技术博客**：在 [blog.sheyiyuan.cn](https://blog.sheyiyuan.cn) 分享学习笔记与实践经验
@@ -118,10 +118,10 @@
 - **技术交流**：乐于分享技术见解，探讨解决方案
 
 <div align="center">
-<p align="center">
+<h3 align="center">
   <img src="assets/image/17.png" alt="" height="28" />
   <img src="assets/headline/05.svg" alt="Current Focus" height="28" />
-</p>
+</h3>
 </div>
 
 **学习ing :**
