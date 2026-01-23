@@ -26,10 +26,10 @@
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sheyiyuan&show_icons=true&hide_border=true&theme=transparent&locale=cn&title_color=3178C6&text_color=999&icon_color=3178C6" alt="Stats" />
+        <img src="https://sheyiyuan.github.io/github-readme-stats/github-stats.svg" alt="GitHub Stats">
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheyiyuan&theme=transparent&hide_border=true&layout=compact&langs_count=6&locale=cn&hide=html,css,dockerfile,shell,powershell&size_weight=0&count_weight=1&title_color=3178C6&text_color=999" alt="Languages" />
+        <img src="https://sheyiyuan.github.io/github-readme-stats/top-langs.svg" alt="Top Languages">
       </td>
     </tr>
   </table>
@@ -67,12 +67,11 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Sheyiyuan/Half-Beat-Player">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheyiyuan&repo=Half-Beat-Player&theme=transparent&hide_border=true&title_color=3178C6&text_color=999&icon_color=3178C6&show_owner=true" alt="Half-Beat-Player" />
+        <img src="https://sheyiyuan.github.io/github-readme-stats/half-beat-player.svg" alt="Half Beat Player">
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/starrybamboo/tuan-chat-web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=starrybamboo&repo=tuan-chat-web&theme=transparent&hide_border=true&title_color=3178C6&text_color=999&icon_color=3178C6&show_owner=true" alt="tuan-chat-web" />
+      <img src="https://sheyiyuan.github.io/github-readme-stats/tuan-chat-web.svg" alt="Tuan Chat Web">
       </a>
     </td>
   </tr>
