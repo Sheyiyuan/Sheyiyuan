@@ -36,12 +36,10 @@
 </div>
 
 <div align="center">
-
-<h3 style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/image/08.png" alt="" height="28" style="margin-right: 10px;" />
-  技术栈 Tech Stack
-</h3>
-
+<p align="center">
+  <img src="assets/image/01.png" alt="01" height="28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=200&lines=技术栈+Tech+Stack" alt="Tech Stack" height="28" />
+</p>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28" />
@@ -63,12 +61,10 @@
 </div>
 
 <div align="center">
-
-<h3 style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/image/02.png" alt="" height="28" style="margin-right: 10px;" />
-  精选项目 Featured Projects
-</h3>
-
+<p align="center">
+  <img src="assets/image/02.png" alt="02" height="28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=280&lines=精选项目+Featured+Projects" alt="Featured Projects" height="28" />
+</p>
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -99,12 +95,10 @@
 </div>
 
 <div align="center">
-
-<h3 style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/image/05.png" alt="" height="28" style="margin-right: 10px;" />
-  技术特点 Tech Highlights
-</h3>
-
+<p align="center">
+  <img src="assets/image/03.png" alt="03" height="28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=280&lines=技术特点+Tech+Highlights" alt="Tech Highlights" height="28" />
+</p>
 </div>
 
 - **全栈开发实践**：从前端到后端独立完成项目，享受端到端开发的乐趣
@@ -113,12 +107,10 @@
 - **工程化思维**：偏爱模块化、可扩展的设计，让代码易维护、好扩展
 
 <div align="center">
-
-<h3 style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/image/04.png" alt="" height="28" style="margin-right: 10px;" />
-  社区参与 Community
-</h3>
-
+<p align="center">
+  <img src="assets/image/04.png" alt="04" height="28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=220&lines=社区参与+Community" alt="Community" height="28" />
+</p>
 </div>
 
 - **技术博客**：在 [blog.sheyiyuan.cn](https://blog.sheyiyuan.cn) 分享学习笔记与实践经验
@@ -126,12 +118,10 @@
 - **技术交流**：乐于分享技术见解，探讨解决方案
 
 <div align="center">
-
-<h3 style="display: flex; align-items: center; justify-content: center;">
-  <img src="assets/image/17.png" alt="" height="28" style="margin-right: 10px;" />
-  当前进展 Current Focus
-</h3>
-
+<p align="center">
+  <img src="assets/image/05.png" alt="05" height="28" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=3178C6&center=true&vCenter=true&height=28&width=260&lines=当前进展+Current+Focus" alt="Current Focus" height="28" />
+</p>
 </div>
 
 **学习ing :**
