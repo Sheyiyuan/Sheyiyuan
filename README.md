@@ -10,7 +10,7 @@
 <p align="center"><i>按兴趣写点我需要的「无聊」东西</i></p>
 
 <p align="center">
-  <a href="https://blog.sheyiyuan.cn">
+  <a href="https://blog.sheyiyuan.com">
     <img src="https://img.shields.io/badge/Blog-3178C6?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
   <a href="mailto:sheyiyuantan90@qq.com">
@@ -114,7 +114,7 @@
 </h3>
 </div>
 
-- **技术博客**：在 [blog.sheyiyuan.cn](https://blog.sheyiyuan.cn) 分享学习笔记与实践经验
+- **技术博客**：在 [blog.sheyiyuan.com](https://blog.sheyiyuan.com) 分享学习笔记与实践经验
 - **开源贡献**：积极参与开源项目，为社区贡献代码
 - **技术交流**：乐于分享技术见解，探讨解决方案
 
