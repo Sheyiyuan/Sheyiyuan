@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://blog.sheyiyuan.com">
-    <img src="https://img.shields.io/badge/Blog-3178C6?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-3178C6?style=for-the-badge&logo=astro&logoColor=white" />
   </a>
   <a href="mailto:sheyiyuantan90@qq.com">
     <img src="https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -102,10 +102,11 @@
 </h3>
 </div>
 
-- **全栈开发实践**：从前端到后端独立完成项目，享受端到端开发的乐趣
-- **分析遇上工程**：用数据驱动决策，结合工程化思维解决实际问题
-- **多平台经验**：Web、桌面、小程序都有实践，追求稳定可靠的用户体验
-- **工程化思维**：偏爱模块化、可扩展的设计，让代码易维护、好扩展
+- **全栈开发实践**：从前端到后端~~指挥AI~~独立完成项目，享受端到端开发的~~抖M折磨~~乐趣
+- **分析遇上工程**：用数据驱动决策，结合~~能跑就行~~工程化思维解决实际问题
+- **多平台经验**：Web、桌面、小程序都~~三分钟热度~~各有实践，追求稳定可靠的用户体验
+- **工程化思维**：偏爱模块化、可扩展的设计，让代码屎山~~变成味更冲的屎山~~易维护、好扩展
+- **服务器运维**: 熟悉 Linux 环境，独立部署和维护服务器，追求~~大不了重装系统~~稳定高效的运行环境
 
 <div align="center">
 <h3 align="center">
@@ -115,8 +116,8 @@
 </div>
 
 - **技术博客**：在 [blog.sheyiyuan.com](https://blog.sheyiyuan.com) 分享学习笔记与实践经验
-- **开源贡献**：积极参与开源项目，为社区贡献代码
-- **技术交流**：乐于分享技术见解，探讨解决方案
+- **开源贡献**：积极参与开源项目，为社区贡献~~垃圾~~代码
+- **技术交流**：乐于分享技术见解，~~与人对线~~探讨解决方案
 
 <div align="center">
 <h3 align="center">
@@ -126,8 +127,6 @@
 </div>
 
 **学习ing :**
-- **CS61ABC 系列课程** - 深入理解计算机系统基础
-- **React 框架** - 提升前端开发能力，构建现代化 Web 应用
-
-**开发ing :**
-- **Half-Beat Player** - 基于 Wails 的跨平台音乐播放器
+- **flutter 框架** - 这移动端就没有好用的 web 套壳吗？
+- **C# 语言（Godot）** - 万一这 b 游戏真能做出来呢？
+- **408** - 万一考上了呢？
