@@ -130,4 +130,5 @@
 - **Agent 开发** - 这是半拍双手的延伸！kakaa！
 
 **开发ing :**
-- **故桌 TRPG** - 与 Tuan Chat 理念类似但是更重视用户体验的 TRPG 平台
+- **故桌 TRPG** - 与 Tuan Chat 理念类似但是更重视用户跑团体验的 TRPG 平台
+- **Half Pi** - 基于 Pi 的情感陪伴向自我成长 AI 助理（那天酒馆 和 Hermes 都喝醉了……）
