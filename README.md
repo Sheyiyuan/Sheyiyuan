@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&theme=github-light&bg_color=00000000&color=666666&line=3178C6&point=3178C6&area=true&hide_border=true&radius=8&title=社亦园 的 GitHub 在线游戏时长" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&theme=github-light&bg_color=00000000&color=666666&line=3178C6&point=3178C6&area=true&hide_border=true&radius=8&title=%E7%A4%BE%E4%BA%A6%E5%9B%AD%20%E7%9A%84%20GitHub%20%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F%E6%97%B6%E9%95%BF" alt="Activity Graph" width="100%">
 </div>
 
 <br>
