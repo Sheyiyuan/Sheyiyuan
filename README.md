@@ -74,8 +74,8 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/starrybamboo/tuan-chat-web">
-        <img src="https://sheyiyuan.github.io/github-readme-stats/tuan-chat-web.svg" alt="Tuan Chat Web">
+      <a href="https://github.com/Sheyiyuan/half-pi">
+        <img src="https://sheyiyuan.github.io/github-readme-stats/half-pi.svg" alt="Half Pi">
       </a>
     </td>
   </tr>
@@ -103,9 +103,9 @@
 </div>
 
 - **全栈开发实践**：从前端到后端独立完成项目，关注端到端开发的完整闭环
-- **多平台经验**：在 Web、桌面、小程序等方向都有实践，追求稳定可靠的用户体验
+- **多平台经验**：在 Web、桌面、小程序等方向都有实践~~全是三分钟热度~~
 - **工程化思维**：偏爱模块化、可扩展的设计，让代码更易维护、好扩展
-- **服务器运维**: 熟悉 Linux 环境，独立部署和维护服务器，追求稳定高效的运行环境
+- **服务器运维**: 熟悉 Linux 环境，独立部署和维护服务器
 
 <div align="center">
 <h3 align="center">
@@ -130,5 +130,5 @@
 - **Agent 开发** - 这是半拍双手的延伸！kakaa！
 
 **开发ing :**
-- **故桌 TRPG** - 与 Tuan Chat 理念类似但是更重视用户跑团体验的 TRPG 平台
-- **Half Pi** - 基于 Pi 的情感陪伴向自我成长 AI 助理（那天酒馆 和 Hermes 都喝醉了……）
+- **故桌 TRPG** - 专注于跑团体验的下一代 TRPG 平台
+- **Half Pi** - 分离的跨设备 AI 助理，全局记忆统一 + 远端节点执行
