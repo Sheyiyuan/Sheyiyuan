@@ -35,6 +35,14 @@
   </table>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheyiyuan&theme=github-light&bg_color=00000000&color=666666&line=3178C6&point=3178C6&area=true&hide_border=true&radius=8" alt="Activity Graph" width="100%">
+</div>
+
+<br>
+
 <div align="center">
 <h3 align="center">
   <img src="assets/image/08.png" alt="" height="28" />
